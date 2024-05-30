@@ -1,4 +1,4 @@
-# Don't Remove Credit @VJ_Botz
+# Don't Remove Credit @kr_1updates
 # Subscribe YouTube Channel For Amazing Bot @kr_1updates
 # Ask Doubt on telegram @KR5updates
 
@@ -7,7 +7,7 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "")
+API_ID = os.environ.get("API_ID", "7260188955:AAGXsDir_WyU2jWoItc2QAkVItaK0yajL_E")
 
 API_HASH = os.environ.get("API_HASH", "")
 
