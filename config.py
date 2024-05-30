@@ -1,6 +1,6 @@
 # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot @kr_1updates
+# Ask Doubt on telegram @KR5updates
 
 
 import re, os
@@ -11,13 +11,13 @@ API_ID = os.environ.get("API_ID", "")
 
 API_HASH = os.environ.get("API_HASH", "")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN",7260188955:AAGXsDir_WyU2jWoItc2QAkVItaK0yajL_E "") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
 
              # Don't Remove Credit @VJ_Botz
-             # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-             # Ask Doubt on telegram @KingVJ01
+             # Subscribe YouTube Channel For Amazing Bot kr_1updates
+             # Ask Doubt on telegram @KR5updates
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
@@ -31,6 +31,6 @@ ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.envir
 
 PORT = os.environ.get("PORT", "8080")
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @kr_1updates
+# Subscribe YouTube Channel For Amazing Bot KR5updates
+# Ask Doubt on telegram @kr_1updates
